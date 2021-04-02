@@ -20,7 +20,7 @@
 ## PROPRIEDADES
 
 Vamos separar em 2 grupos:
-`container` e `itens(s)`
+`container` e `items(s)`
 
 ### CONTAINER
 
